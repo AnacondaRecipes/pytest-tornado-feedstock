@@ -23,7 +23,7 @@ requirements:
   run:
     - python
     - pytest
-    - tornado
+    - tornado >=4
 
 test:
   imports:
